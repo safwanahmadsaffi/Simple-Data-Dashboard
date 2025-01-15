@@ -1,5 +1,4 @@
 # Simple Data Dashboard
-
 This is a simple and interactive data dashboard built using Streamlit, a Python framework for building web applications. The dashboard allows users to upload a CSV file, filter data, and visualize it with a line chart. The interface is designed to be intuitive and user-friendly.
 
 ## Features
